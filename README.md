@@ -7,7 +7,7 @@
 1. Locate the `.vscode/extensions` folder on your system:
    - Common path: `C:\Users\<username>\.vscode\extensions`
 
-2. Copy the extension folder (unpacked) to the `extensions` directory.
+2. Copy the extension folder ex.<true_blood_folder> and paste it to the `.vscode/extensions` directory.
 
 3. Restart Visual Studio Code.
 
