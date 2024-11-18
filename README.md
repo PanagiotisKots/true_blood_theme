@@ -46,19 +46,19 @@ A sleek, dark red-colored theme for Visual Studio Code, inspired by the mysterio
 ## **Preview**
 Here are some visuals showcasing the theme:
 
-### **Screenshot 1**
+
 ![Screenshot 1](assets/img1.jpg)
 
-### **Screenshot 2**
+
 ![Screenshot 2](assets/img2.jpg)
 
-### **Screenshot 3**
+
 ![Screenshot 3](assets/img3.jpg)
 
-### **Screenshot 4**
+
 ![Screenshot 4](assets/img4.jpg)
 
-### **Screenshot 5**
+
 ![Screenshot 5](assets/img5.jpg)
 
 ---
