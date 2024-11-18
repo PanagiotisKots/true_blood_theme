@@ -1,0 +1,21 @@
+{
+  "name": "panagiotiskotsorgios",
+  "displayName": "True Blood Extension",
+  "description": "The True Blood Theme is a dark, immersive color theme inspired by the intense and dramatic hues of deep crimson and shadowy blacks. Designed to evoke the mysterious and powerful essence of blood, this theme blends rich red highlights with dark, muted backgrounds, creating a visually striking contrast. Perfect for those who love coding in an edgy, bold atmosphere, the True Blood Theme enhances focus while delivering a uniquely gothic aesthetic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TRue Blood Theme Extension",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TRue Blood Theme Extension-color-theme.json"
+      }
+    ]
+  }
+}
