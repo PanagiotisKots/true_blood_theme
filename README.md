@@ -1,25 +1,38 @@
-# panagiotiskotsorgios README
+## Installation Instructions;
 
+# How to Add and Use a VS Code Extension Locally
 
+## **For Windows 10**
 
+1. Locate the `.vscode/extensions` folder on your system:
+   - Common path: `C:\Users\<username>\.vscode\extensions`
 
+2. Copy the extension folder (unpacked) to the `extensions` directory.
 
-#Instruction;
+3. Restart Visual Studio Code.
 
-windows:
+4. Apply the extension:
+   - Go to **File** → **Preferences** → **Themes** → **Color Themes**.
+   - Find your extension in the list, and click it to enable.
 
+---
 
-extract the zipo.
+## **For Linux**
 
-copy and paste it to the vscode .extensions fiolder example:     most common filepath:    C:\Users\<username>\.vscode\extensions (paste rthe folder here as it is an extension)
+1. Navigate to the folder containing the `.vsix` extension file:
+   ```bash
+   cd <folder-name>
 
-close and start vscode again.
+2. Install the extension using the following command:
+    ```bash
+    code --install-extension <extension-name>.vsix
 
-go to file -> preferences -> themes -> color themes -> and fimnd it alogn the others , click it and it will be enabled.
+3. Restart Visual Studio Code.
 
-in linux do cd Folder name of the repo.
+4. Apply the extension:
 
-code --install-extension true-blood.vsix
+   - Go to File → Preferences → Themes → Color Themes.
+   - Select your extension from the list to enable it.
 
 
 ## Working with Markdown
