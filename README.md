@@ -35,6 +35,41 @@
    - Select your extension from the list to enable it.
 
 
+
+
+
+
+# **True Blood Theme**
+
+A sleek, dark red-colored theme for Visual Studio Code, inspired by the mysterious and bold tones of the night.
+
+## **Preview**
+Here are some visuals showcasing the theme:
+
+### **Screenshot 1**
+![Screenshot 1](assets/img1.jpg)
+
+### **Screenshot 2**
+![Screenshot 2](assets/img2.jpg)
+
+### **Screenshot 3**
+![Screenshot 3](assets/img3.jpg)
+
+### **Screenshot 4**
+![Screenshot 4](assets/img4.jpg)
+
+### **Screenshot 5**
+![Screenshot 5](assets/img5.jpg)
+
+---
+
+## **Features**
+- Rich, dark tones with striking red highlights.
+- Optimized for a comfortable coding experience, especially in low-light environments.
+- Perfect for those who love themes with bold contrasts.
+
+---
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
