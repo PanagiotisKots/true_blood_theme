@@ -1,5 +1,3 @@
-## Installation Instructions;
-
 # How to Add and Use a VS Code Extension Locally
 
 ## **For Windows 10**
